@@ -8,8 +8,6 @@ Resources
 
 [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
 
-[https://a2a-protocol.org/latest/](https://a2a-protocol.org/latest/)
-
 
 
 
